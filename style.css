@@ -10,6 +10,11 @@
     align-items: center;
 }
 
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    justify-content: center;
+}
+
 .time-select,
 .sound-pick,
 .player-cont{
@@ -21,6 +26,14 @@
     align-items: center;
 
 }
+
+.footer-text {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 12px;
+}
+
 
 .player-cont{
     position: relative;
