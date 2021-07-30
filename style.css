@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.app{
+    height:100vh;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.time-select,
+.sound-pick,
+.player-cont{
+    height:80%;
+    flex:1;
+
+}
+
+.time-select{
+    background:lightblue;
+
+
+}
+.sound-pick{
+    background: lightgreen;
+}
+.player-cont{
+    background:lightcoral;
+}
